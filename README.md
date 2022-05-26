@@ -8,3 +8,12 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+## 💻 Sobre o Projeto
+
+**•**  Este é um monorepositório que abriga tanto o backend quanto o frontend da aplicação DSMovie.
+**•**  Esta aplicação foi desenvolvida durante o Bootcamp DevSuperior.
+
+**-** O DSMovie é uma plataforma onde usuários podem avaliar filmes com notas que vão de 0 a 5.
+
+### Essa aplicação pode ser acessada em: `https://adriel-dev-dsmovie.netlify.app`
