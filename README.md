@@ -17,4 +17,4 @@
 
 **•** O DSMovie é uma plataforma onde usuários podem avaliar filmes com notas que vão de 0 a 5.
 
-### A aplicação pode ser acessada em: `https://adriel-dev-dsmovie.netlify.app`
+### A aplicação pode ser acessada em: ![](`https://adriel-dev-dsmovie.netlify.app`)
