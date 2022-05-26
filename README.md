@@ -12,6 +12,7 @@
 ## 💻 Sobre o Projeto
 
 **•**  Este é um monorepositório que abriga tanto o backend quanto o frontend da aplicação DSMovie.
+
 **•**  Esta aplicação foi desenvolvida durante o Bootcamp DevSuperior.
 
 **-** O DSMovie é uma plataforma onde usuários podem avaliar filmes com notas que vão de 0 a 5.
